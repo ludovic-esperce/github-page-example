@@ -16,4 +16,9 @@ Ci-dessous une procédure permettant de mettre en place une Github Page.
 > Essayez d'appliquer cette procédure à un des sites que vous avez déjà développé.
 
 1. Créer un nouveau dépôt sur Github
-2. "Pousser" le code de votre page statique sur ce dépôt
+
+2. "Pousser" le code de votre page statique sur ce dépôt.
+
+3. Activer l'option "Github Page" sur votre dépôt comme ci-desous :
+
+![Activation Github Page](doc/activate-github-page.gif)$
